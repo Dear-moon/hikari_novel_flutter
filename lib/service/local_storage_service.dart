@@ -27,7 +27,6 @@ class LocalStorageService extends GetxService {
       kIsDynamicColor = "isDynamicColor",
       kCustomColor = "customColor",
       kThemeMode = "themeMode",
-      kDefaultHomePage = "defaultHomePage", //TODO
       kIsRelativeTime = "isRelativeTime",
       kReaderDirection = "readerDirection",
       kReaderFontSize = "readerFontSize",
